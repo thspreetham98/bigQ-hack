@@ -78,7 +78,56 @@ block length displacements, that describe the outcomes of scattering processes [
 example, a scattering amplitude, or transition probability, between an initial and final state may be
 computed by
 
-𝐴(𝑡) = 〈𝜓_final|𝜓_init(𝑡)〉 where |𝜓(𝑡)⟩ = 𝑒^iHt * |𝜓⟩
+𝐴(𝑡) = 〈𝜓_final|𝜓_init(𝑡)〉 where |𝜓(𝑡)⟩ = 𝑒^-(iHt) * |𝜓⟩
 
 Various methods can be used when performing scattering calculations such as a Green’s function
 approach through the Schwinger-Lipmann equation [Baker21] or dynamic approach with timeevolved two-point correlation functions [Yeter21].
+
+## References
+
+- [Abrams99] D. S. Abrams and S. Lloyd. Quantum algorithm providing exponential speed
+increase for finding eigenvalues and eigenvectors. Physical Review Letters 83(24), 5162 (1999)
+
+- [Aspuru-Guzik05] A. Aspuru-Guzik, A. D. Dutoi, P. J. Love, and M. Head-Gordon. Simulated
+quantum computation of molecular energies. Science 309(5741), 1704–1707 (2005)
+
+- [Baker21] T. E. Baker. Lanczos recursion on a quantum computer for the green’s
+function and ground state. Physical Review A 103(3), 032404 (2021)
+
+- [Hupin19] G. Hupin, S. Quaglioni, and P. Navrátil. Ab initio predictions for polarized
+deuterium- tritium thermonuclear fusion. Nature communications 10(1), 1–8
+(2019)
+
+- [Francis20] A. Francis, J. K. Freericks, and A. F. Kemper. Quantum computation of magnon
+spectra. Phys. Rev. B 101, 014411 (2020)
+
+- [Jouzdani22] P. Jouzdani, C. W. Johnson, E. R. Mucciolo, and I. Stetcu. Alternative approach
+to quantum imaginary time evolution. Phys. Rev. A 106, 062435 (2022)
+
+- [Kikuchi10] M. Kikuchi, A Review of Fusion and Tokamak Research Towards Steady-State
+Operation: A JAEA Contribution. Energies 3, no. 11: 1741-1789 (2010)
+
+- [Kim12] Y. Kim, J. Mack, H. Herrmann, C. Young, G. Hale, S. Caldwell, N. Hoffman, S.
+Evans, T. Sedillo, A. McEvoy et al. Determination of the deuterium-tritium
+branching ratio based on inertial confinement fusion implosions. Physical
+Review C 85(6), 061601 (2012)
+
+- [Manqoba23] M. Q. Hlatshwayo, Y. Zhang, H. Wibowo, R. LaRose, D. Lacroix, and E.
+Litvinova. Simulating excited states of the Lipkin model on a quantum
+computer. Phys. Rev. C 106, 024319 (2023)
+
+- [Perez23] A. Pérez-Obiol, A. M. Romero, J. Menéndez, A. Rios, A. García-Sáez, and B.
+Juliá-Díaz. Nuclear shell-model simulation in digital quantum computers. Sci
+Rep 13, 12291 (2023).
+
+- [Peruzzo14] A. Peruzzo, J. McClean, P. Shadbolt, M.-H. Yung, X.-Q. Zhou, P. J. Love, A.
+Aspuru- Guzik, and J. L. O’brien. A variational eigenvalue solver on a
+photonic quantum processor. Nature communications 5(1), 1–7 (2014)
+
+- [VanDyke21] J. S. Van Dyke, E. Barnes, S. E. Economou, and R. I. Nepomechie. Preparing
+exact eigenstates of the open XXZ chain on a quantum computer. Phys. A:
+Math. Theor. 55 055301 (2021)
+
+- [Yeter21] K. Yeter-Aydeniz, G. Siopsis, and R. C. Pooser. Scattering in the Ising model
+with the quantum lanczos algorithm. New Journal of Physics 23(4), 043033
+(2021)
