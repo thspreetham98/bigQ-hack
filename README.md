@@ -78,7 +78,7 @@ block length displacements, that describe the outcomes of scattering processes [
 example, a scattering amplitude, or transition probability, between an initial and final state may be
 computed by
 
-𝐴(𝑡) = 〈𝜓_final|𝜓_init(𝑡)〉 where |𝜓(𝑡)⟩ = 𝑒^-(iHt) * |𝜓⟩
+<p align= "center">𝐴(𝑡) = 〈𝜓_final|𝜓_init(𝑡)〉 where |𝜓(𝑡)⟩ = 𝑒^-(iHt) * |𝜓⟩</p>
 
 Various methods can be used when performing scattering calculations such as a Green’s function
 approach through the Schwinger-Lipmann equation [Baker21] or dynamic approach with timeevolved two-point correlation functions [Yeter21].
