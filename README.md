@@ -28,7 +28,7 @@ Experimental Reactor (ITER) or a Fusion Pilot Plant (FPP) is gauged by measuring
 production. However, the γ to n branching ratio is very small, somewhere between 1×10−5 and
 3×10−4 with an uncertainty of about 50% [Kim12].
 
-<i> Ab initio <i> approaches, such as the no-core shell model with continuum (NCSMC), represents the state
+<i> Ab initio </i> approaches, such as the no-core shell model with continuum (NCSMC), represents the state
 of the art for modeling D-T fusion [Hupin19]. To accurately model reactions, and in particular to
 get the correct absolute values, the NCSMC includes as many scattering and reaction channels as
 possible. Thus, not only is the relative motion of deuterium and tritium included, but also virtual
